@@ -208,4 +208,4 @@ Accuracy alone is insufficient for this business. Key metrics:
 
 
 ## Demo Video
-https://drive.google.com/file/d/1x9DSO6cQhuuwOA7XYPt4r8f4aDd8pN_Q/view?usp=sharing
+https://drive.google.com/file/d/1GdjqYa3K1rykFb_57mtt2wKFXz0zBx8-/view?usp=sharing
